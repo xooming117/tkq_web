@@ -9,7 +9,7 @@ COPY . /opt/tkq/web
 RUN npm install
 
 # 暴露 3030 端口
-#EXPOSE 3030
+#EXPOSE 80
 
 CMD ["npm", "run", "dev"]
 

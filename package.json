@@ -1,7 +1,7 @@
 {
-  "name": "manage-system",
+  "name": "taokequan",
   "version": "2.1.0",
-  "description": "基于Vue.js 2.x系列 + element-ui 内容管理系统解决方案",
+  "description": "tkq web",
   "author": "lin-xin <2981207131@qq.com>",
   "private": true,
   "scripts": {
@@ -20,7 +20,7 @@
     "vue-router": "^2.3.1",
     "vue-schart": "^0.1.2",
     "vue-simplemde": "0.3.8",
-    "vuex": "^2.4.0"
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
